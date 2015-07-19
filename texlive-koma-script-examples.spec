@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-koma-script-examples
 Version:	20140523
-Release:	3
+Release:	4
 Summary:	Examples from the KOMA-Script book
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/info/examples/KOMA-Script-5
