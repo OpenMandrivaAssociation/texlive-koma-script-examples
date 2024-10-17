@@ -3,7 +3,7 @@ Version:	63833
 Release:	2
 Summary:	Examples from the KOMA-Script book
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/info/examples/KOMA-Script-5
+URL:		https://www.ctan.org/tex-archive/info/examples/KOMA-Script-5
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/koma-script-examples.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/koma-script-examples.doc.r%{version}.tar.xz
